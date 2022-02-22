@@ -1,2 +1,2 @@
 # wbent22.github.io
-## Hello
+## Wyatt Bentley's Personal Website
